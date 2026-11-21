@@ -17,6 +17,20 @@
 
 （效果图可自行进游戏查看；本仓库不附带游戏截图。）
 
+## 下载
+
+成品 pak 在 Release 里（仓库本身只放文档与脚本，不放 89MB 的二进制）：
+
+```
+https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/latest
+```
+
+| 项 | 值 |
+|---|---|
+| 文件 | `zzzzDS_HanserFinal_P.pak` |
+| 大小 | 89,028,129 字节（约 84.9 MB） |
+| SHA256 | `FCB3BC3C596A31ED90FEE4473E13F3697E737066E3669986885C9B8883DD8E00` |
+
 ## 安装
 
 1. 找到游戏安装目录下的 Pak 目录，例如：
