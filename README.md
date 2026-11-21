@@ -1,5 +1,15 @@
 # 龙之剑：觉醒 · 阿莉娅（Aria）← hanser 模型替换 Mod
 
+[![Download](https://img.shields.io/badge/⬇_下载成品-v1.0.0-2ea44f?style=for-the-badge)](https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/latest)
+[![Release](https://img.shields.io/github/v/release/xpjlhxhkh/DragonSword-Aria-Hanser-Mod?style=for-the-badge&label=Release)](https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/latest)
+[![Technotes](https://img.shields.io/badge/📘_技术笔记-docs/TECHNICAL.md-blue?style=for-the-badge)](docs/TECHNICAL.md)
+
+> **快速入口**
+> - ⬇️ 下载成品 pak：**[Releases · latest](https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/latest)**（约 84.9 MB）
+> - 📦 所有版本：**[Releases 列表](https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases)**
+> - 📘 制作流程与踩坑：**[docs/TECHNICAL.md](docs/TECHNICAL.md)**
+> - 🗂 关键脚本：**[tools/](tools/)**
+
 把《龙之剑：觉醒》（DragonSword: Awakening，UE 5.3）里可操作角色 **阿莉娅 Aria** 的模型替换成 **hanser** 的 MMD 模型（白水手服 + 深蓝领 + 白袜、棕色短发那套）。
 
 - ✅ 模型几何真的换了（不是换贴图）
@@ -21,9 +31,10 @@
 
 成品 pak 在 Release 里（仓库本身只放文档与脚本，不放 89MB 的二进制）：
 
-```
-https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/latest
-```
+| 方式 | 地址 |
+|---|---|
+| 直接下载文件 | https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/latest/download/zzzzDS_HanserFinal_P.pak |
+| Release 页面 | https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/tag/v1.0.0 |
 
 | 项 | 值 |
 |---|---|

@@ -1,5 +1,9 @@
 # 技术笔记：把 MMD 模型替换进《龙之剑：觉醒》
 
+> 成品下载：**[Releases · latest](https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/latest)**
+> （直接下文件：https://github.com/xpjlhxhkh/DragonSword-Aria-Hanser-Mod/releases/latest/download/zzzzDS_HanserFinal_P.pak）
+> 安装/卸载/文件校验见 [README](../README.md)。
+
 本文记录这次替换的完整链路和踩过的坑，尽量写成“照着做就能复现”的形式。
 
 ## 0. 环境与工具
